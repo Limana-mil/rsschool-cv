@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Limana-mil.github.io/rsschool-cv/cv
