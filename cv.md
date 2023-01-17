@@ -6,7 +6,7 @@
 
 :email: **E-mail:** limana.mil@mail.ru
 
-- ![Telegram icon](/telegram-icon.png) **Telegram:** [@Mur_limur]
+- ![Telegram icon](/telegram-icon.png) **Telegram:** [@Mur_limur][def]
 
 ## About myself:
 
